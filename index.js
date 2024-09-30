@@ -1,4 +1,4 @@
-const order = 'cheeseburger';
+const order = 'hamburger';
 
 let ingredients;
 
