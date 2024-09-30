@@ -50,7 +50,8 @@ switch(day){
     case 'Sunday':
     console.log("9am");
     break
-    default:''
+    default:
+        console.log("Just sleep")
 }
 
 
