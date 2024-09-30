@@ -29,26 +29,26 @@ console.log(ingredients)
 
 let day ='Monday';
 switch(day){
-    case:'Monday'
+    case 'Monday':
     console.log("7am")
     break
-    case:'Tuesday'
-    console.log()
+    case 'Tuesday':
+    console.log("4am")
     break
-    case:'Wednesday'
-    console.log()
+    case 'Wednesday':
+    console.log("4am")
     break
-    case:'Thursday'
-    console.log()
+    case 'Thursday':
+    console.log("4am")
     break
-    case:'Friday'
-    console.log()
+    case 'Friday':
+    console.log("10am")
     break
-    case:'Saturday'
-    console.log()
+    case 'Saturday':
+    console.log("9am")
     break
-    case:'Sunday'
-    console.log()
+    case 'Sunday':
+    console.log("9am")
     break
     default:''
 }
