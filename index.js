@@ -17,4 +17,4 @@ switch (order) {
         break;
 }
 console.log(order)
-console.log
+console.log(ingredients)
